@@ -1,0 +1,535 @@
+,Date,Patch,Format,match_url,Maps_Won_1,Maps_Won_2,Map Number,Map,Duration,Team1,RoundsWon1,Team2,RoundsWon2,PistolWin1,PistolWin2,EcoWin1,Ecowin2,SemiEcoWin1,SemiEcoWin2,SemiBuyWin1,SemiBuyWin2,BuyWin1,BuyWin2
+0,2023-04-01 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183774/sentinels-vs-100-thieves-champions-tour-2023-americas-league-w1,2,1,1,"Fracture
+PICK",1:07:36,Sentinels,13,100 Thieves,11,0,2,4 (0),2 (2),0 (0),1 (0),8 (5),8 (5),12 (8),13 (4)
+1,2023-04-01 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183774/sentinels-vs-100-thieves-champions-tour-2023-americas-league-w1,2,1,2,"Split
+PICK",1:04:26,Sentinels,12,100 Thieves,14,0,2,3 (0),2 (2),2 (1),3 (2),5 (4),9 (4),16 (7),12 (6)
+2,2023-04-01 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183774/sentinels-vs-100-thieves-champions-tour-2023-americas-league-w1,2,1,3,Ascent,1:04:22,Sentinels,14,100 Thieves,12,2,0,2 (2),4 (0),0 (0),1 (0),5 (2),4 (2),19 (10),17 (10)
+3,2023-04-01 19:15:00,Patch 6.05,BO3,https://www.vlr.gg/183775/kr-esports-vs-furia-champions-tour-2023-americas-league-w1,0,2,1,"Split
+PICK",1:14:47,KRÜ Esports,11,FURIA,13,0,2,4 (0),2 (2),1 (1),0 (0),3 (1),9 (5),16 (9),13 (6)
+4,2023-04-01 19:15:00,Patch 6.05,BO3,https://www.vlr.gg/183775/kr-esports-vs-furia-champions-tour-2023-americas-league-w1,0,2,2,"Ascent
+PICK",45:50,KRÜ Esports,5,FURIA,13,1,1,4 (2),3 (2),2 (0),1 (1),3 (0),3 (2),9 (3),11 (8)
+5,2023-04-02 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183776/loud-vs-mibr-champions-tour-2023-americas-league-w1,2,1,1,"Split
+PICK",54:28,LOUD,13,MIBR,5,2,0,2 (2),4 (0),0 (0),0 (0),4 (3),5 (0),12 (8),9 (5)
+6,2023-04-02 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183776/loud-vs-mibr-champions-tour-2023-americas-league-w1,2,1,2,"Lotus
+PICK",56:44,LOUD,11,MIBR,13,1,1,3 (1),3 (1),2 (0),1 (0),8 (5),6 (3),11 (5),14 (9)
+7,2023-04-02 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183776/loud-vs-mibr-champions-tour-2023-americas-league-w1,2,1,3,Haven,54:42,LOUD,13,MIBR,11,2,0,2 (2),4 (0),4 (0),2 (0),4 (3),2 (1),14 (8),16 (10)
+8,2023-04-02 18:45:00,Patch 6.05,BO3,https://www.vlr.gg/183777/evil-geniuses-vs-cloud9-champions-tour-2023-americas-league-w1,0,2,1,"Pearl
+PICK",1:25:06,Evil Geniuses,11,Cloud9,13,2,0,4 (2),4 (1),0 (0),0 (0),7 (1),3 (0),13 (8),17 (12)
+9,2023-04-02 18:45:00,Patch 6.05,BO3,https://www.vlr.gg/183777/evil-geniuses-vs-cloud9-champions-tour-2023-americas-league-w1,0,2,2,"Fracture
+PICK",49:34,Evil Geniuses,9,Cloud9,13,2,0,5 (2),4 (2),2 (0),1 (0),3 (1),1 (1),12 (6),16 (10)
+10,2023-04-03 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183778/leviat-n-vs-nrg-esports-champions-tour-2023-americas-league-w1,2,0,1,"Pearl
+PICK",1:08:04,Leviatán,13,NRG Esports,11,0,2,4 (0),2 (2),2 (1),0 (0),1 (1),12 (6),17 (11),10 (3)
+11,2023-04-03 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183778/leviat-n-vs-nrg-esports-champions-tour-2023-americas-league-w1,2,0,2,"Lotus
+PICK",39:08,Leviatán,13,NRG Esports,4,2,0,2 (2),4 (0),0 (0),0 (0),5 (4),7 (1),10 (7),6 (3)
+12,2023-04-08 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183779/cloud9-vs-loud-champions-tour-2023-americas-league-w2,1,2,1,"Split
+PICK",1:03:31,Cloud9,13,LOUD,7,2,0,2 (2),4 (0),1 (0),3 (1),7 (5),3 (3),10 (6),10 (3)
+13,2023-04-08 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183779/cloud9-vs-loud-champions-tour-2023-americas-league-w2,1,2,2,"Ascent
+PICK",55:14,Cloud9,8,LOUD,13,2,0,3 (2),4 (1),3 (1),0 (0),7 (3),1 (0),8 (2),16 (12)
+14,2023-04-08 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183779/cloud9-vs-loud-champions-tour-2023-americas-league-w2,1,2,3,Pearl,44:49,Cloud9,7,LOUD,13,1,1,3 (1),3 (1),3 (0),0 (0),6 (1),2 (1),8 (5),15 (11)
+15,2023-04-08 18:35:00,Patch 6.05,BO3,https://www.vlr.gg/183780/leviat-n-vs-furia-champions-tour-2023-americas-league-w2,1,2,1,"Pearl
+PICK",1:08:28,Leviatán,13,FURIA,11,1,1,3 (1),3 (1),0 (0),3 (0),6 (3),2 (2),15 (9),16 (8)
+16,2023-04-08 18:35:00,Patch 6.05,BO3,https://www.vlr.gg/183780/leviat-n-vs-furia-champions-tour-2023-americas-league-w2,1,2,2,"Icebox
+PICK",47:44,Leviatán,5,FURIA,13,0,2,3 (0),2 (2),2 (0),0 (0),4 (2),6 (3),9 (3),10 (8)
+17,2023-04-08 18:35:00,Patch 6.05,BO3,https://www.vlr.gg/183780/leviat-n-vs-furia-champions-tour-2023-americas-league-w2,1,2,3,Ascent,55:08,Leviatán,10,FURIA,13,1,1,3 (1),3 (2),1 (1),0 (0),5 (1),6 (3),14 (7),14 (8)
+18,2023-04-09 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183781/nrg-esports-vs-sentinels-champions-tour-2023-americas-league-w2,2,0,1,"Lotus
+PICK",1:14:23,NRG Esports,13,Sentinels,10,1,1,3 (1),3 (1),1 (1),1 (0),6 (3),7 (4),13 (8),12 (5)
+19,2023-04-09 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183781/nrg-esports-vs-sentinels-champions-tour-2023-americas-league-w2,2,0,2,"Icebox
+PICK",39:16,NRG Esports,13,Sentinels,2,2,0,2 (2),3 (0),0 (0),1 (0),3 (3),9 (2),10 (8),2 (0)
+20,2023-04-09 17:35:00,Patch 6.05,BO3,https://www.vlr.gg/183782/mibr-vs-kr-esports-champions-tour-2023-americas-league-w2,2,1,1,"Ascent
+PICK",1:07:33,MIBR,9,KRÜ Esports,13,1,1,3 (1),3 (1),2 (1),2 (1),4 (2),4 (3),13 (5),13 (8)
+21,2023-04-09 17:35:00,Patch 6.05,BO3,https://www.vlr.gg/183782/mibr-vs-kr-esports-champions-tour-2023-americas-league-w2,2,1,2,"Lotus
+PICK",1:04:15,MIBR,13,KRÜ Esports,11,1,1,3 (1),3 (1),2 (0),1 (0),3 (2),6 (3),16 (10),14 (7)
+22,2023-04-09 17:35:00,Patch 6.05,BO3,https://www.vlr.gg/183782/mibr-vs-kr-esports-champions-tour-2023-americas-league-w2,2,1,3,Pearl,1:05:47,MIBR,14,KRÜ Esports,12,0,2,4 (0),2 (2),1 (0),3 (1),2 (0),8 (6),19 (14),13 (3)
+23,2023-04-10 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183783/evil-geniuses-vs-100-thieves-champions-tour-2023-americas-league-w2,0,2,1,"Haven
+PICK",1:00:31,Evil Geniuses,9,100 Thieves,13,1,1,4 (1),3 (1),1 (0),0 (0),5 (2),4 (4),12 (6),15 (8)
+24,2023-04-10 15:00:00,Patch 6.05,BO3,https://www.vlr.gg/183783/evil-geniuses-vs-100-thieves-champions-tour-2023-americas-league-w2,0,2,2,"Icebox
+PICK",44:48,Evil Geniuses,5,100 Thieves,13,1,1,3 (1),4 (2),2 (0),0 (0),6 (2),3 (2),7 (2),11 (9)
+25,2023-04-15 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183785/cloud9-vs-100-thieves-champions-tour-2023-americas-league-w3,2,0,1,"Lotus
+PICK",1:14:34,Cloud9,13,100 Thieves,7,2,0,2 (2),4 (0),0 (0),0 (0),6 (3),6 (5),12 (8),10 (2)
+26,2023-04-15 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183785/cloud9-vs-100-thieves-champions-tour-2023-americas-league-w3,2,0,2,"Ascent
+PICK",58:32,Cloud9,14,100 Thieves,12,1,1,3 (1),2 (1),1 (0),1 (1),3 (2),12 (6),19 (11),11 (4)
+27,2023-04-15 18:00:00,Patch 6.06,BO3,https://www.vlr.gg/183786/nrg-esports-vs-mibr-champions-tour-2023-americas-league-w3,1,2,1,"Icebox
+PICK",1:05:01,NRG Esports,10,MIBR,13,1,1,3 (1),3 (1),1 (0),1 (0),9 (5),2 (1),10 (4),17 (11)
+28,2023-04-15 18:00:00,Patch 6.06,BO3,https://www.vlr.gg/183786/nrg-esports-vs-mibr-champions-tour-2023-americas-league-w3,1,2,2,"Pearl
+PICK",1:25:52,NRG Esports,16,MIBR,14,2,0,2 (2),4 (0),3 (0),0 (0),10 (5),2 (0),15 (9),24 (14)
+29,2023-04-15 18:00:00,Patch 6.06,BO3,https://www.vlr.gg/183786/nrg-esports-vs-mibr-champions-tour-2023-americas-league-w3,1,2,3,Split,1:15:14,NRG Esports,14,MIBR,16,1,1,3 (1),3 (1),1 (1),1 (1),8 (3),6 (4),18 (9),20 (10)
+30,2023-04-16 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183787/leviat-n-vs-sentinels-champions-tour-2023-americas-league-w3,2,1,1,"Split
+PICK",1:20:27,Leviatán,14,Sentinels,12,1,1,3 (1),3 (1),0 (0),0 (0),4 (2),9 (6),19 (11),14 (5)
+31,2023-04-16 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183787/leviat-n-vs-sentinels-champions-tour-2023-americas-league-w3,2,1,2,"Ascent
+PICK",59:35,Leviatán,11,Sentinels,13,0,2,4 (0),2 (2),1 (1),1 (0),2 (1),9 (6),17 (9),12 (5)
+32,2023-04-16 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183787/leviat-n-vs-sentinels-champions-tour-2023-americas-league-w3,2,1,3,Pearl,41:18,Leviatán,13,Sentinels,4,1,1,3 (1),3 (1),0 (0),1 (0),7 (6),9 (3),7 (6),4 (0)
+33,2023-04-16 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183788/evil-geniuses-vs-kr-esports-champions-tour-2023-americas-league-w3,2,1,1,"Pearl
+PICK",1:09:27,Evil Geniuses,13,KRÜ Esports,11,1,1,5 (1),3 (1),1 (0),2 (0),3 (1),4 (2),15 (11),15 (8)
+34,2023-04-16 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183788/evil-geniuses-vs-kr-esports-champions-tour-2023-americas-league-w3,2,1,2,"Ascent
+PICK",59:10,Evil Geniuses,11,KRÜ Esports,13,2,0,2 (2),4 (1),3 (1),1 (0),5 (1),3 (1),14 (7),16 (11)
+35,2023-04-16 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183788/evil-geniuses-vs-kr-esports-champions-tour-2023-americas-league-w3,2,1,3,Fracture,49:24,Evil Geniuses,13,KRÜ Esports,7,0,2,4 (0),2 (2),0 (0),2 (0),2 (1),6 (2),14 (12),10 (3)
+36,2023-04-17 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183789/loud-vs-furia-champions-tour-2023-americas-league-w3,2,0,1,"Split
+PICK",1:05:41,LOUD,13,FURIA,9,1,1,3 (1),3 (1),0 (0),3 (0),4 (2),3 (1),15 (10),13 (7)
+37,2023-04-17 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183789/loud-vs-furia-champions-tour-2023-americas-league-w3,2,0,2,"Icebox
+PICK",38:59,LOUD,13,FURIA,4,2,0,2 (2),4 (0),0 (0),2 (0),3 (3),4 (1),12 (8),7 (3)
+38,2023-04-21 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183791/loud-vs-sentinels-champions-tour-2023-americas-league-w4,2,1,1,"Pearl
+PICK",1:00:48,LOUD,6,Sentinels,13,1,1,2 (1),3 (1),3 (0),0 (0),4 (2),5 (3),10 (3),11 (9)
+39,2023-04-21 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183791/loud-vs-sentinels-champions-tour-2023-americas-league-w4,2,1,2,"Haven
+PICK",1:27:26,LOUD,13,Sentinels,11,1,1,3 (1),3 (2),1 (0),0 (0),3 (1),12 (6),17 (11),9 (3)
+40,2023-04-21 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183791/loud-vs-sentinels-champions-tour-2023-americas-league-w4,2,1,3,Ascent,48:47,LOUD,13,Sentinels,8,1,1,3 (2),3 (1),0 (0),2 (0),5 (4),8 (3),13 (7),8 (4)
+41,2023-04-21 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183792/leviat-n-vs-mibr-champions-tour-2023-americas-league-w4,2,0,1,"Pearl
+PICK",52:41,Leviatán,13,MIBR,4,2,0,2 (2),3 (0),1 (1),2 (0),5 (2),4 (2),9 (8),8 (2)
+42,2023-04-21 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183792/leviat-n-vs-mibr-champions-tour-2023-americas-league-w4,2,0,2,"Icebox
+PICK",39:39,Leviatán,13,MIBR,3,2,0,2 (2),3 (0),0 (0),2 (1),4 (3),6 (1),10 (8),5 (1)
+43,2023-04-22 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183793/kr-esports-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,1,"Ascent
+PICK",51:39,KRÜ Esports,13,100 Thieves,4,2,0,2 (2),4 (0),0 (0),1 (1),4 (3),11 (3),11 (8),1 (0)
+44,2023-04-22 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183793/kr-esports-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,2,"Split
+PICK",58:58,KRÜ Esports,11,100 Thieves,13,1,1,3 (1),3 (1),2 (1),1 (0),3 (2),8 (5),16 (7),12 (7)
+45,2023-04-22 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183793/kr-esports-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,3,Fracture,41:31,KRÜ Esports,5,100 Thieves,13,0,2,4 (0),2 (2),0 (0),1 (0),5 (1),5 (2),9 (4),10 (9)
+46,2023-04-22 18:20:00,Patch 6.06,BO3,https://www.vlr.gg/183794/evil-geniuses-vs-furia-champions-tour-2023-americas-league-w4,1,2,1,"Ascent
+PICK",1:17:24,Evil Geniuses,13,FURIA,15,1,1,3 (1),4 (1),3 (0),0 (0),3 (1),4 (2),19 (11),20 (12)
+47,2023-04-22 18:20:00,Patch 6.06,BO3,https://www.vlr.gg/183794/evil-geniuses-vs-furia-champions-tour-2023-americas-league-w4,1,2,2,"Fracture
+PICK",45:30,Evil Geniuses,13,FURIA,7,1,1,3 (2),4 (1),0 (0),3 (1),4 (2),6 (3),13 (9),7 (2)
+48,2023-04-22 18:20:00,Patch 6.06,BO3,https://www.vlr.gg/183794/evil-geniuses-vs-furia-champions-tour-2023-americas-league-w4,1,2,3,Haven,51:47,Evil Geniuses,10,FURIA,13,0,2,4 (0),3 (2),1 (0),0 (0),4 (3),6 (4),14 (7),14 (7)
+49,2023-04-23 19:05:00,Patch 6.06,BO3,https://www.vlr.gg/183796/mibr-vs-sentinels-champions-tour-2023-americas-league-w4,0,2,1,"Pearl
+PICK",58:45,MIBR,5,Sentinels,13,0,2,4 (0),2 (2),1 (0),0 (0),5 (3),4 (3),8 (2),12 (8)
+50,2023-04-23 19:05:00,Patch 6.06,BO3,https://www.vlr.gg/183796/mibr-vs-sentinels-champions-tour-2023-americas-league-w4,0,2,2,"Fracture
+PICK",48:56,MIBR,6,Sentinels,13,1,1,3 (1),3 (1),2 (0),1 (0),4 (2),6 (5),10 (3),9 (7)
+51,2023-04-24 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183797/leviat-n-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,1,"Icebox
+PICK",1:15:24,Leviatán,15,100 Thieves,13,1,1,3 (1),3 (1),0 (0),0 (0),6 (2),6 (3),19 (12),19 (9)
+52,2023-04-24 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183797/leviat-n-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,2,"Haven
+PICK",51:20,Leviatán,11,100 Thieves,13,2,0,2 (2),4 (1),3 (0),0 (0),5 (3),2 (1),14 (6),18 (11)
+53,2023-04-24 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183797/leviat-n-vs-100-thieves-champions-tour-2023-americas-league-w4,1,2,3,Lotus,1:01:09,Leviatán,11,100 Thieves,13,0,2,3 (0),2 (2),1 (1),3 (0),3 (0),8 (4),17 (10),11 (7)
+54,2023-04-24 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183798/evil-geniuses-vs-loud-champions-tour-2023-americas-league-w4,1,2,1,"Split
+PICK",49:09,Evil Geniuses,13,LOUD,3,1,1,3 (1),2 (1),0 (0),3 (0),3 (3),6 (1),10 (9),5 (1)
+55,2023-04-24 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183798/evil-geniuses-vs-loud-champions-tour-2023-americas-league-w4,1,2,2,"Haven
+PICK",52:19,Evil Geniuses,10,LOUD,13,1,1,5 (1),3 (1),2 (0),2 (2),4 (2),4 (2),12 (7),14 (8)
+56,2023-04-24 19:00:00,Patch 6.06,BO3,https://www.vlr.gg/183798/evil-geniuses-vs-loud-champions-tour-2023-americas-league-w4,1,2,3,Pearl,31:46,Evil Geniuses,0,LOUD,13,0,2,3 (0),2 (2),2 (0),0 (0),4 (0),2 (2),4 (0),9 (9)
+57,2023-04-25 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183799/cloud9-vs-furia-champions-tour-2023-americas-league-w4,2,0,1,"Ascent
+PICK",1:02:00,Cloud9,13,FURIA,8,1,1,3 (1),3 (1),1 (0),1 (0),5 (4),5 (2),12 (8),12 (5)
+58,2023-04-25 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183799/cloud9-vs-furia-champions-tour-2023-americas-league-w4,2,0,2,"Fracture
+PICK",54:37,Cloud9,13,FURIA,9,1,1,3 (1),3 (1),3 (3),2 (0),5 (4),4 (3),11 (5),13 (5)
+59,2023-04-25 17:30:00,Patch 6.06,BO3,https://www.vlr.gg/183800/nrg-esports-vs-kr-esports-champions-tour-2023-americas-league-w4,2,0,1,"Haven
+PICK",1:06:02,NRG Esports,13,KRÜ Esports,10,0,2,4 (0),2 (2),1 (0),3 (0),2 (1),4 (3),16 (12),14 (5)
+60,2023-04-25 17:30:00,Patch 6.06,BO3,https://www.vlr.gg/183800/nrg-esports-vs-kr-esports-champions-tour-2023-americas-league-w4,2,0,2,"Ascent
+PICK",41:10,NRG Esports,13,KRÜ Esports,4,2,0,2 (2),4 (0),0 (0),3 (0),3 (3),3 (1),12 (8),7 (3)
+61,2023-04-29 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183801/nrg-esports-vs-100-thieves-champions-tour-2023-americas-league-w5,2,0,1,"Bind
+PICK",1:02:41,NRG Esports,13,100 Thieves,7,1,1,3 (1),3 (1),1 (1),1 (0),5 (2),8 (3),11 (9),8 (3)
+62,2023-04-29 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183801/nrg-esports-vs-100-thieves-champions-tour-2023-americas-league-w5,2,0,2,"Fracture
+PICK",37:05,NRG Esports,13,100 Thieves,3,2,0,3 (2),3 (0),0 (0),1 (0),3 (1),6 (2),10 (10),6 (1)
+63,2023-04-29 17:20:00,Patch 6.08,BO3,https://www.vlr.gg/183802/mibr-vs-furia-champions-tour-2023-americas-league-w5,0,2,1,"Pearl
+PICK",1:12:43,MIBR,11,FURIA,13,1,1,3 (1),3 (1),1 (0),1 (0),3 (2),6 (4),17 (8),14 (8)
+64,2023-04-29 17:20:00,Patch 6.08,BO3,https://www.vlr.gg/183802/mibr-vs-furia-champions-tour-2023-americas-league-w5,0,2,2,"Split
+PICK",49:37,MIBR,7,FURIA,13,1,1,3 (1),3 (1),1 (0),0 (0),6 (2),6 (5),10 (4),11 (7)
+65,2023-04-30 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183803/cloud9-vs-sentinels-champions-tour-2023-americas-league-w5,2,0,1,"Lotus
+PICK",54:05,Cloud9,13,Sentinels,4,1,1,3 (1),3 (1),0 (0),1 (0),3 (2),7 (3),11 (10),6 (0)
+66,2023-04-30 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183803/cloud9-vs-sentinels-champions-tour-2023-americas-league-w5,2,0,2,"Fracture
+PICK",44:26,Cloud9,13,Sentinels,6,1,1,3 (1),3 (1),0 (0),1 (0),4 (3),8 (2),12 (9),7 (3)
+67,2023-04-30 17:25:00,Patch 6.08,BO3,https://www.vlr.gg/183804/leviat-n-vs-evil-geniuses-champions-tour-2023-americas-league-w5,1,2,1,"Split
+PICK",1:10:35,Leviatán,10,Evil Geniuses,13,1,1,3 (1),3 (1),1 (0),2 (2),6 (3),5 (3),13 (6),13 (7)
+68,2023-04-30 17:25:00,Patch 6.08,BO3,https://www.vlr.gg/183804/leviat-n-vs-evil-geniuses-champions-tour-2023-americas-league-w5,1,2,2,"Pearl
+PICK",54:42,Leviatán,13,Evil Geniuses,10,1,1,3 (2),4 (1),0 (0),3 (0),3 (2),3 (1),17 (9),13 (8)
+69,2023-04-30 17:25:00,Patch 6.08,BO3,https://www.vlr.gg/183804/leviat-n-vs-evil-geniuses-champions-tour-2023-americas-league-w5,1,2,3,Ascent,50:12,Leviatán,10,Evil Geniuses,13,1,1,3 (1),3 (1),0 (0),2 (0),5 (1),3 (2),15 (8),15 (10)
+70,2023-05-01 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183805/loud-vs-kr-esports-champions-tour-2023-americas-league-w5,2,1,1,"Pearl
+PICK",1:04:57,LOUD,10,KRÜ Esports,13,1,1,3 (1),3 (1),1 (0),1 (0),4 (1),6 (3),15 (8),13 (9)
+71,2023-05-01 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183805/loud-vs-kr-esports-champions-tour-2023-americas-league-w5,2,1,2,"Ascent
+PICK",54:16,LOUD,13,KRÜ Esports,11,1,1,3 (1),3 (1),2 (0),0 (0),3 (1),6 (3),16 (11),15 (7)
+72,2023-05-01 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183805/loud-vs-kr-esports-champions-tour-2023-americas-league-w5,2,1,3,Split,51:01,LOUD,13,KRÜ Esports,10,1,1,3 (1),3 (1),1 (0),2 (0),2 (2),4 (3),17 (10),14 (6)
+73,2023-05-06 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183807/evil-geniuses-vs-sentinels-champions-tour-2023-americas-league-w6,2,0,1,"Fracture
+PICK",52:51,Evil Geniuses,13,Sentinels,6,1,1,3 (1),3 (1),0 (0),1 (1),3 (2),8 (1),13 (10),7 (3)
+74,2023-05-06 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183807/evil-geniuses-vs-sentinels-champions-tour-2023-americas-league-w6,2,0,2,"Pearl
+PICK",44:50,Evil Geniuses,13,Sentinels,5,1,1,3 (1),3 (1),0 (0),3 (0),4 (3),5 (2),11 (9),7 (2)
+75,2023-05-06 17:10:00,Patch 6.08,BO3,https://www.vlr.gg/183808/cloud9-vs-mibr-champions-tour-2023-americas-league-w6,2,0,1,"Split
+PICK",56:29,Cloud9,13,MIBR,5,2,0,2 (2),4 (0),1 (1),1 (0),4 (3),3 (0),11 (7),10 (5)
+76,2023-05-06 17:10:00,Patch 6.08,BO3,https://www.vlr.gg/183808/cloud9-vs-mibr-champions-tour-2023-americas-league-w6,2,0,2,"Lotus
+PICK",39:36,Cloud9,13,MIBR,4,2,0,2 (2),4 (0),0 (0),0 (0),5 (4),3 (0),10 (7),10 (4)
+77,2023-05-07 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183809/loud-vs-100-thieves-champions-tour-2023-americas-league-w6,2,0,1,"Ascent
+PICK",50:21,LOUD,13,100 Thieves,5,1,1,3 (1),3 (1),1 (1),1 (0),2 (1),6 (2),12 (10),8 (2)
+78,2023-05-07 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183809/loud-vs-100-thieves-champions-tour-2023-americas-league-w6,2,0,2,"Split
+PICK",1:06:55,LOUD,15,100 Thieves,13,1,1,3 (2),4 (1),0 (0),1 (0),6 (3),6 (4),19 (10),17 (8)
+79,2023-05-07 17:30:00,Patch 6.08,BO3,https://www.vlr.gg/183810/leviat-n-vs-kr-esports-champions-tour-2023-americas-league-w6,2,0,1,"Haven
+PICK",48:53,Leviatán,13,KRÜ Esports,4,2,0,3 (2),3 (0),0 (0),2 (0),4 (3),4 (3),10 (8),8 (1)
+80,2023-05-07 17:30:00,Patch 6.08,BO3,https://www.vlr.gg/183810/leviat-n-vs-kr-esports-champions-tour-2023-americas-league-w6,2,0,2,"Split
+PICK",38:10,Leviatán,13,KRÜ Esports,4,2,0,2 (2),3 (0),0 (0),2 (1),5 (4),4 (1),10 (7),8 (2)
+81,2023-05-08 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183811/nrg-esports-vs-furia-champions-tour-2023-americas-league-w6,2,1,1,"Bind
+PICK",1:10:28,NRG Esports,13,FURIA,11,2,0,3 (2),4 (1),0 (0),2 (0),6 (3),2 (1),15 (8),16 (9)
+82,2023-05-08 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183811/nrg-esports-vs-furia-champions-tour-2023-americas-league-w6,2,1,2,"Haven
+PICK",55:49,NRG Esports,11,FURIA,13,1,1,3 (1),3 (1),3 (2),2 (1),4 (2),7 (5),14 (6),12 (6)
+83,2023-05-08 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183811/nrg-esports-vs-furia-champions-tour-2023-americas-league-w6,2,1,3,Pearl,45:22,NRG Esports,13,FURIA,6,1,1,3 (1),3 (1),0 (0),2 (1),2 (2),4 (1),14 (10),10 (3)
+84,2023-05-13 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183812/furia-vs-100-thieves-champions-tour-2023-americas-league-w7,1,2,1,"Pearl
+PICK",1:12:14,FURIA,13,100 Thieves,10,0,2,4 (1),2 (2),0 (0),2 (0),3 (2),6 (1),16 (10),13 (7)
+85,2023-05-13 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183812/furia-vs-100-thieves-champions-tour-2023-americas-league-w7,1,2,2,"Fracture
+PICK",48:04,FURIA,7,100 Thieves,13,1,1,3 (1),3 (1),2 (0),0 (0),4 (3),3 (2),11 (3),14 (10)
+86,2023-05-13 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183812/furia-vs-100-thieves-champions-tour-2023-americas-league-w7,1,2,3,Haven,52:58,FURIA,11,100 Thieves,13,0,2,5 (0),2 (2),0 (0),0 (0),3 (2),6 (4),16 (9),16 (7)
+87,2023-05-13 18:30:00,Patch 6.08,BO3,https://www.vlr.gg/183813/evil-geniuses-vs-mibr-champions-tour-2023-americas-league-w7,2,0,1,"Lotus
+PICK",42:30,Evil Geniuses,13,MIBR,2,2,0,2 (2),3 (0),0 (0),1 (0),4 (4),6 (1),9 (7),5 (1)
+88,2023-05-13 18:30:00,Patch 6.08,BO3,https://www.vlr.gg/183813/evil-geniuses-vs-mibr-champions-tour-2023-americas-league-w7,2,0,2,"Fracture
+PICK",43:19,Evil Geniuses,13,MIBR,5,0,2,4 (1),3 (2),0 (0),2 (0),0 (0),5 (1),14 (12),8 (2)
+89,2023-05-14 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183814/kr-esports-vs-sentinels-champions-tour-2023-americas-league-w7,0,2,1,"Lotus
+PICK",1:17:09,KRÜ Esports,12,Sentinels,14,0,2,4 (0),2 (2),1 (0),1 (0),1 (1),9 (6),20 (11),14 (6)
+90,2023-05-14 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183814/kr-esports-vs-sentinels-champions-tour-2023-americas-league-w7,0,2,2,"Bind
+PICK",53:29,KRÜ Esports,10,Sentinels,13,1,1,3 (1),3 (1),4 (1),2 (1),6 (4),3 (2),10 (4),15 (9)
+91,2023-05-14 17:45:00,Patch 6.08,BO3,https://www.vlr.gg/183815/nrg-esports-vs-loud-champions-tour-2023-americas-league-w7,2,0,1,"Split
+PICK",53:54,NRG Esports,13,LOUD,5,1,1,3 (2),3 (1),0 (0),2 (1),3 (2),6 (2),12 (9),7 (1)
+92,2023-05-14 17:45:00,Patch 6.08,BO3,https://www.vlr.gg/183815/nrg-esports-vs-loud-champions-tour-2023-americas-league-w7,2,0,2,"Pearl
+PICK",54:37,NRG Esports,13,LOUD,9,0,2,4 (0),2 (2),1 (0),2 (0),2 (1),10 (5),15 (12),8 (2)
+93,2023-05-15 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183816/leviat-n-vs-cloud9-champions-tour-2023-americas-league-w7,0,2,1,"Lotus
+PICK",57:53,Leviatán,7,Cloud9,13,1,1,3 (1),3 (1),0 (0),1 (1),11 (5),4 (2),6 (1),12 (9)
+94,2023-05-15 15:00:00,Patch 6.08,BO3,https://www.vlr.gg/183816/leviat-n-vs-cloud9-champions-tour-2023-americas-league-w7,0,2,2,"Haven
+PICK",40:08,Leviatán,4,Cloud9,13,1,1,3 (1),3 (1),1 (0),0 (0),7 (3),4 (4),6 (0),10 (8)
+95,2023-03-27 12:30:00,Patch 6.05,BO3,https://www.vlr.gg/173215/koi-vs-natus-vincere-champions-tour-2023-emea-league-w1,2,0,1,"Ascent
+PICK",1:04:25,KOI,13,Natus Vincere,7,1,1,3 (1),3 (1),1 (0),0 (0),6 (5),6 (4),10 (7),11 (2)
+96,2023-03-27 12:30:00,Patch 6.05,BO3,https://www.vlr.gg/173215/koi-vs-natus-vincere-champions-tour-2023-emea-league-w1,2,0,2,"Lotus
+PICK",1:27:57,KOI,20,Natus Vincere,18,1,1,3 (1),2 (1),1 (0),1 (0),6 (5),11 (6),28 (14),24 (11)
+97,2023-03-27 15:30:00,Patch 6.05,BO3,https://www.vlr.gg/173214/fnatic-vs-giants-gaming-champions-tour-2023-emea-league-w1,2,0,1,"Icebox
+PICK",1:00:25,FNATIC,13,Giants Gaming,3,2,0,2 (2),3 (0),0 (0),3 (0),5 (5),10 (3),9 (6),0 (0)
+98,2023-03-27 15:30:00,Patch 6.05,BO3,https://www.vlr.gg/173214/fnatic-vs-giants-gaming-champions-tour-2023-emea-league-w1,2,0,2,"Split
+PICK",55:06,FNATIC,13,Giants Gaming,11,1,1,3 (1),3 (1),0 (0),2 (0),5 (3),9 (4),16 (9),10 (6)
+99,2023-03-28 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173216/team-heretics-vs-fut-esports-champions-tour-2023-emea-league-w1,0,2,1,"Pearl
+PICK",51:48,Team Heretics,4,FUT Esports,13,0,2,3 (0),3 (3),3 (1),0 (0),5 (2),4 (3),6 (1),10 (7)
+100,2023-03-28 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173216/team-heretics-vs-fut-esports-champions-tour-2023-emea-league-w1,0,2,2,"Lotus
+PICK",51:01,Team Heretics,9,FUT Esports,13,0,2,4 (0),2 (2),2 (0),2 (0),2 (1),6 (4),14 (8),12 (7)
+101,2023-03-28 14:30:00,Patch 6.05,BO3,https://www.vlr.gg/173217/team-liquid-vs-team-vitality-champions-tour-2023-emea-league-w1,1,2,1,"Haven
+PICK",1:00:16,Team Liquid,6,Team Vitality,13,1,1,3 (1),3 (1),1 (0),0 (0),10 (2),6 (6),5 (3),10 (6)
+102,2023-03-28 14:30:00,Patch 6.05,BO3,https://www.vlr.gg/173217/team-liquid-vs-team-vitality-champions-tour-2023-emea-league-w1,1,2,2,"Fracture
+PICK",34:46,Team Liquid,13,Team Vitality,2,2,0,2 (2),2 (0),0 (0),3 (0),4 (4),5 (2),9 (7),5 (0)
+103,2023-03-28 14:30:00,Patch 6.05,BO3,https://www.vlr.gg/173217/team-liquid-vs-team-vitality-champions-tour-2023-emea-league-w1,1,2,3,Lotus,55:26,Team Liquid,10,Team Vitality,13,0,2,4 (0),2 (2),1 (0),0 (0),2 (0),14 (7),16 (10),7 (4)
+104,2023-03-29 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173218/natus-vincere-vs-giants-gaming-champions-tour-2023-emea-league-w1,2,1,1,"Icebox
+PICK",1:35:35,Natus Vincere,15,Giants Gaming,17,0,2,4 (0),2 (2),1 (0),1 (0),5 (4),12 (6),22 (11),17 (9)
+105,2023-03-29 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173218/natus-vincere-vs-giants-gaming-champions-tour-2023-emea-league-w1,2,1,2,"Split
+PICK",1:11:30,Natus Vincere,15,Giants Gaming,13,0,2,3 (0),2 (2),1 (0),1 (0),5 (3),10 (6),19 (12),15 (5)
+106,2023-03-29 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173218/natus-vincere-vs-giants-gaming-champions-tour-2023-emea-league-w1,2,1,3,Pearl,51:34,Natus Vincere,13,Giants Gaming,7,1,1,3 (2),4 (1),1 (1),1 (0),4 (3),7 (4),12 (7),8 (2)
+107,2023-03-29 16:30:00,Patch 6.05,BO3,https://www.vlr.gg/173219/karmine-corp-vs-bbl-esports-champions-tour-2023-emea-league-w1,2,0,1,"Icebox
+PICK",1:44:51,Karmine Corp,19,BBL Esports,17,0,2,4 (1),2 (2),1 (1),5 (1),1 (1),8 (4),30 (16),21 (10)
+108,2023-03-29 16:30:00,Patch 6.05,BO3,https://www.vlr.gg/173219/karmine-corp-vs-bbl-esports-champions-tour-2023-emea-league-w1,2,0,2,"Split
+PICK",1:18:49,Karmine Corp,13,BBL Esports,11,2,0,2 (2),4 (0),2 (1),3 (0),10 (4),2 (1),10 (6),15 (10)
+109,2023-03-30 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173220/team-liquid-vs-fut-esports-champions-tour-2023-emea-league-w1,2,1,1,"Lotus
+PICK",1:10:35,Team Liquid,10,FUT Esports,13,0,2,4 (0),2 (2),1 (1),2 (0),3 (3),6 (3),15 (6),13 (8)
+110,2023-03-30 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173220/team-liquid-vs-fut-esports-champions-tour-2023-emea-league-w1,2,1,2,"Split
+PICK",43:22,Team Liquid,13,FUT Esports,6,1,1,3 (1),3 (1),1 (0),4 (1),2 (1),3 (1),13 (11),9 (3)
+111,2023-03-30 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173220/team-liquid-vs-fut-esports-champions-tour-2023-emea-league-w1,2,1,3,Ascent,40:58,Team Liquid,13,FUT Esports,6,2,0,2 (2),3 (0),1 (1),2 (0),8 (3),5 (0),8 (7),9 (6)
+112,2023-03-30 15:15:00,Patch 6.05,BO3,https://www.vlr.gg/173221/koi-vs-team-vitality-champions-tour-2023-emea-league-w1,0,2,1,"Split
+PICK",1:17:31,KOI,9,Team Vitality,13,0,2,3 (0),2 (2),1 (0),1 (0),4 (1),10 (5),14 (8),9 (6)
+113,2023-03-30 15:15:00,Patch 6.05,BO3,https://www.vlr.gg/173221/koi-vs-team-vitality-champions-tour-2023-emea-league-w1,0,2,2,"Fracture
+PICK",1:01:00,KOI,13,Team Vitality,15,1,1,3 (2),2 (1),1 (0),4 (0),5 (3),10 (7),19 (8),12 (7)
+114,2023-03-31 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173222/fnatic-vs-bbl-esports-champions-tour-2023-emea-league-w1,2,1,1,"Ascent
+PICK",55:17,FNATIC,6,BBL Esports,13,1,1,2 (1),3 (1),1 (0),1 (0),11 (4),2 (1),5 (1),13 (11)
+115,2023-03-31 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173222/fnatic-vs-bbl-esports-champions-tour-2023-emea-league-w1,2,1,2,"Haven
+PICK",54:02,FNATIC,13,BBL Esports,9,1,1,3 (1),3 (1),0 (0),3 (2),9 (7),4 (2),10 (5),12 (4)
+116,2023-03-31 12:00:00,Patch 6.05,BO3,https://www.vlr.gg/173222/fnatic-vs-bbl-esports-champions-tour-2023-emea-league-w1,2,1,3,Split,1:05:41,FNATIC,13,BBL Esports,11,2,0,2 (2),5 (1),0 (0),1 (1),12 (6),3 (0),10 (5),15 (9)
+117,2023-03-31 15:45:00,Patch 6.05,BO3,https://www.vlr.gg/173223/team-heretics-vs-karmine-corp-champions-tour-2023-emea-league-w1,2,0,1,"Icebox
+PICK",1:00:01,Team Heretics,13,Karmine Corp,5,1,1,3 (1),3 (1),0 (0),2 (0),2 (1),7 (3),13 (11),6 (1)
+118,2023-03-31 15:45:00,Patch 6.05,BO3,https://www.vlr.gg/173223/team-heretics-vs-karmine-corp-champions-tour-2023-emea-league-w1,2,0,2,"Split
+PICK",38:12,Team Heretics,13,Karmine Corp,2,2,0,2 (2),3 (0),0 (0),1 (0),4 (3),7 (2),9 (8),4 (0)
+119,2023-04-05 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/183944/team-vitality-vs-fut-esports-champions-tour-2023-emea-league-w2,0,2,1,"Lotus
+PICK",40:02,Team Vitality,4,FUT Esports,13,0,2,2 (0),2 (2),3 (0),0 (0),9 (3),6 (5),3 (1),9 (6)
+120,2023-04-05 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/183944/team-vitality-vs-fut-esports-champions-tour-2023-emea-league-w2,0,2,2,"Haven
+PICK",54:36,Team Vitality,10,FUT Esports,13,1,1,3 (1),3 (1),0 (0),2 (0),7 (4),5 (2),13 (5),13 (10)
+121,2023-04-06 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/183945/natus-vincere-vs-bbl-esports-champions-tour-2023-emea-league-w2,2,0,1,"Ascent
+PICK",1:16:27,Natus Vincere,13,BBL Esports,10,1,1,3 (1),3 (1),0 (0),0 (0),6 (3),13 (7),14 (9),7 (2)
+122,2023-04-06 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/183945/natus-vincere-vs-bbl-esports-champions-tour-2023-emea-league-w2,2,0,2,"Fracture
+PICK",50:08,Natus Vincere,13,BBL Esports,8,2,0,2 (2),3 (1),0 (0),2 (0),9 (6),10 (5),10 (5),6 (2)
+123,2023-04-06 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183946/fnatic-vs-team-heretics-champions-tour-2023-emea-league-w2,2,0,1,"Icebox
+PICK",53:35,FNATIC,13,Team Heretics,3,2,0,2 (2),4 (0),0 (0),0 (0),6 (4),6 (1),8 (7),6 (2)
+124,2023-04-06 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183946/fnatic-vs-team-heretics-champions-tour-2023-emea-league-w2,2,0,2,"Ascent
+PICK",51:04,FNATIC,13,Team Heretics,6,1,1,3 (2),4 (1),0 (0),2 (0),2 (1),4 (2),14 (10),9 (3)
+125,2023-04-07 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/183947/team-liquid-vs-karmine-corp-champions-tour-2023-emea-league-w2,2,0,1,"Ascent
+PICK",1:04:01,Team Liquid,13,Karmine Corp,5,1,1,3 (1),4 (1),0 (0),1 (1),3 (2),5 (1),12 (10),8 (2)
+126,2023-04-07 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/183947/team-liquid-vs-karmine-corp-champions-tour-2023-emea-league-w2,2,0,2,"Split
+PICK",39:09,Team Liquid,13,Karmine Corp,2,1,1,3 (1),3 (1),0 (0),3 (0),2 (2),5 (1),10 (10),4 (0)
+127,2023-04-07 14:30:00,Patch 6.06,BO3,https://www.vlr.gg/183948/koi-vs-giants-gaming-champions-tour-2023-emea-league-w2,0,2,1,"Lotus
+PICK",55:50,KOI,1,Giants Gaming,13,0,2,3 (0),2 (2),3 (0),0 (0),8 (1),2 (2),0 (0),10 (9)
+128,2023-04-07 14:30:00,Patch 6.06,BO3,https://www.vlr.gg/183948/koi-vs-giants-gaming-champions-tour-2023-emea-league-w2,0,2,2,"Ascent
+PICK",1:01:17,KOI,11,Giants Gaming,13,1,1,2 (1),4 (3),3 (1),0 (0),12 (5),5 (1),7 (4),15 (9)
+129,2023-04-12 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/183949/natus-vincere-vs-team-heretics-champions-tour-2023-emea-league-w3,2,1,1,"Pearl
+PICK",37:40,Natus Vincere,13,Team Heretics,3,2,0,2 (2),3 (0),0 (0),1 (0),3 (3),6 (2),11 (8),6 (1)
+130,2023-04-12 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/183949/natus-vincere-vs-team-heretics-champions-tour-2023-emea-league-w3,2,1,2,"Lotus
+PICK",57:43,Natus Vincere,9,Team Heretics,13,1,1,3 (1),3 (1),2 (1),2 (2),5 (1),4 (2),12 (6),13 (8)
+131,2023-04-12 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/183949/natus-vincere-vs-team-heretics-champions-tour-2023-emea-league-w3,2,1,3,Ascent,36:45,Natus Vincere,13,Team Heretics,2,1,1,2 (1),3 (1),1 (1),2 (0),2 (2),5 (0),10 (9),5 (1)
+132,2023-04-13 12:40:00,Patch 6.06,BO3,https://www.vlr.gg/183950/koi-vs-fut-esports-champions-tour-2023-emea-league-w3,0,2,1,,,,,,,,,,,,,,,,
+133,2023-04-13 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183951/team-liquid-vs-fnatic-champions-tour-2023-emea-league-w3,0,2,1,"Lotus
+PICK",1:12:16,Team Liquid,6,FNATIC,13,1,1,3 (1),3 (1),2 (0),1 (0),6 (2),4 (3),8 (3),11 (9)
+134,2023-04-13 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/183951/team-liquid-vs-fnatic-champions-tour-2023-emea-league-w3,0,2,2,"Haven
+PICK",48:46,Team Liquid,6,FNATIC,13,1,1,3 (1),3 (1),1 (1),0 (0),10 (1),4 (4),5 (3),12 (8)
+135,2023-04-14 13:00:00,Patch 6.06,BO3,https://www.vlr.gg/183952/giants-gaming-vs-bbl-esports-champions-tour-2023-emea-league-w3,2,0,1,"Icebox
+PICK",1:09:41,Giants Gaming,13,BBL Esports,10,1,1,4 (1),3 (1),0 (0),2 (0),7 (4),12 (6),12 (8),6 (3)
+136,2023-04-14 13:00:00,Patch 6.06,BO3,https://www.vlr.gg/183952/giants-gaming-vs-bbl-esports-champions-tour-2023-emea-league-w3,2,0,2,"Split
+PICK",37:20,Giants Gaming,13,BBL Esports,3,1,1,3 (1),2 (1),0 (0),2 (0),3 (3),12 (2),10 (9),0 (0)
+137,2023-04-14 15:15:00,Patch 6.06,BO3,https://www.vlr.gg/183953/team-vitality-vs-karmine-corp-champions-tour-2023-emea-league-w3,2,0,1,"Ascent
+PICK",47:34,Team Vitality,13,Karmine Corp,2,2,0,2 (2),3 (0),0 (0),3 (0),3 (2),4 (0),10 (9),5 (2)
+138,2023-04-14 15:15:00,Patch 6.06,BO3,https://www.vlr.gg/183953/team-vitality-vs-karmine-corp-champions-tour-2023-emea-league-w3,2,0,2,"Split
+PICK",45:45,Team Vitality,13,Karmine Corp,6,1,1,2 (1),3 (1),2 (0),1 (0),4 (3),5 (2),11 (9),10 (3)
+139,2023-04-19 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/184037/team-heretics-vs-team-liquid-champions-tour-2023-emea-league-w4,0,2,1,"Split
+PICK",1:07:55,Team Heretics,8,Team Liquid,13,1,1,3 (1),3 (1),5 (0),0 (0),2 (2),5 (3),11 (5),13 (9)
+140,2023-04-19 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/184037/team-heretics-vs-team-liquid-champions-tour-2023-emea-league-w4,0,2,2,"Fracture
+PICK",1:15:41,Team Heretics,15,Team Liquid,17,0,2,5 (1),2 (2),0 (0),3 (1),1 (0),8 (3),26 (14),19 (11)
+141,2023-04-20 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184039/fut-esports-vs-giants-gaming-champions-tour-2023-emea-league-w4,0,2,1,"Icebox
+PICK",54:31,FUT Esports,5,Giants Gaming,13,2,0,3 (2),4 (1),2 (0),1 (1),4 (1),0 (0),9 (2),13 (11)
+142,2023-04-20 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184039/fut-esports-vs-giants-gaming-champions-tour-2023-emea-league-w4,0,2,2,"Split
+PICK",1:00:00,FUT Esports,11,Giants Gaming,13,0,2,5 (1),2 (2),2 (0),3 (0),3 (2),7 (4),14 (8),12 (7)
+143,2023-04-21 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184040/karmine-corp-vs-natus-vincere-champions-tour-2023-emea-league-w4,0,2,1,"Ascent
+PICK",1:14:46,Karmine Corp,11,Natus Vincere,13,0,2,4 (0),2 (2),0 (0),1 (0),4 (2),8 (6),16 (9),13 (5)
+144,2023-04-21 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184040/karmine-corp-vs-natus-vincere-champions-tour-2023-emea-league-w4,0,2,2,"Lotus
+PICK",57:11,Karmine Corp,7,Natus Vincere,13,1,1,3 (1),3 (1),1 (0),1 (0),5 (2),4 (3),11 (4),12 (9)
+145,2023-04-21 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/184041/bbl-esports-vs-team-vitality-champions-tour-2023-emea-league-w4,2,0,1,"Ascent
+PICK",55:29,BBL Esports,13,Team Vitality,8,2,0,2 (2),4 (1),2 (1),0 (0),10 (5),3 (1),7 (5),14 (6)
+146,2023-04-21 15:00:00,Patch 6.06,BO3,https://www.vlr.gg/184041/bbl-esports-vs-team-vitality-champions-tour-2023-emea-league-w4,2,0,2,"Haven
+PICK",50:02,BBL Esports,13,Team Vitality,9,2,0,2 (2),2 (0),0 (0),3 (0),8 (5),7 (2),12 (6),10 (7)
+147,2023-04-26 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/184042/giants-gaming-vs-team-liquid-champions-tour-2023-emea-league-w5,1,2,1,"Ascent
+PICK",1:12:48,Giants Gaming,13,Team Liquid,11,1,1,5 (3),3 (2),3 (2),1 (1),2 (0),5 (2),14 (8),15 (6)
+148,2023-04-26 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/184042/giants-gaming-vs-team-liquid-champions-tour-2023-emea-league-w5,1,2,2,"Icebox
+PICK",59:52,Giants Gaming,11,Team Liquid,13,1,1,3 (1),4 (1),2 (1),0 (0),7 (3),8 (4),12 (6),12 (8)
+149,2023-04-26 14:00:00,Patch 6.06,BO3,https://www.vlr.gg/184042/giants-gaming-vs-team-liquid-champions-tour-2023-emea-league-w5,1,2,3,Lotus,56:03,Giants Gaming,10,Team Liquid,13,1,1,3 (1),3 (2),2 (0),0 (0),3 (2),6 (4),15 (7),14 (7)
+150,2023-04-27 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184043/bbl-esports-vs-team-heretics-champions-tour-2023-emea-league-w5,2,1,1,"Haven
+PICK",1:33:12,BBL Esports,14,Team Heretics,12,1,1,3 (1),3 (1),0 (0),2 (1),13 (7),9 (5),10 (6),12 (5)
+151,2023-04-27 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184043/bbl-esports-vs-team-heretics-champions-tour-2023-emea-league-w5,2,1,2,"Lotus
+PICK",1:10:45,BBL Esports,10,Team Heretics,13,1,1,2 (1),3 (1),0 (0),2 (0),8 (5),5 (3),13 (4),13 (9)
+152,2023-04-27 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184043/bbl-esports-vs-team-heretics-champions-tour-2023-emea-league-w5,2,1,3,Icebox,37:39,BBL Esports,13,Team Heretics,2,1,1,2 (1),3 (1),1 (1),1 (0),1 (1),8 (1),11 (10),3 (0)
+153,2023-04-27 16:15:00,Patch 6.06,BO3,https://www.vlr.gg/184044/koi-vs-karmine-corp-champions-tour-2023-emea-league-w5,1,2,1,"Lotus
+PICK",1:10:00,KOI,6,Karmine Corp,13,1,1,3 (1),3 (1),1 (0),0 (0),6 (2),5 (3),9 (3),11 (9)
+154,2023-04-27 16:15:00,Patch 6.06,BO3,https://www.vlr.gg/184044/koi-vs-karmine-corp-champions-tour-2023-emea-league-w5,1,2,2,"Ascent
+PICK",1:00:42,KOI,13,Karmine Corp,8,1,1,3 (1),3 (1),0 (0),2 (2),5 (4),6 (2),13 (8),10 (3)
+155,2023-04-27 16:15:00,Patch 6.06,BO3,https://www.vlr.gg/184044/koi-vs-karmine-corp-champions-tour-2023-emea-league-w5,1,2,3,Haven,59:34,KOI,11,Karmine Corp,13,1,1,3 (2),3 (1),3 (1),2 (2),8 (2),4 (2),10 (6),15 (8)
+156,2023-04-28 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184045/fut-esports-vs-fnatic-champions-tour-2023-emea-league-w5,0,2,1,"Icebox
+PICK",57:48,FUT Esports,5,FNATIC,13,0,2,4 (0),2 (2),1 (0),0 (0),1 (0),5 (3),12 (5),11 (8)
+157,2023-04-28 12:00:00,Patch 6.06,BO3,https://www.vlr.gg/184045/fut-esports-vs-fnatic-champions-tour-2023-emea-league-w5,0,2,2,"Lotus
+PICK",43:45,FUT Esports,5,FNATIC,13,0,2,5 (0),2 (2),0 (0),0 (0),4 (1),6 (4),9 (4),10 (7)
+158,2023-04-28 14:20:00,Patch 6.06,BO3,https://www.vlr.gg/184046/team-vitality-vs-natus-vincere-champions-tour-2023-emea-league-w5,0,2,1,"Split
+PICK",1:06:52,Team Vitality,10,Natus Vincere,13,1,1,3 (1),3 (1),1 (0),0 (0),10 (4),13 (7),9 (5),7 (5)
+159,2023-04-28 14:20:00,Patch 6.06,BO3,https://www.vlr.gg/184046/team-vitality-vs-natus-vincere-champions-tour-2023-emea-league-w5,0,2,2,"Fracture
+PICK",56:06,Team Vitality,10,Natus Vincere,13,2,0,2 (2),4 (1),1 (0),0 (0),11 (5),9 (5),9 (3),10 (7)
+160,2023-05-03 14:00:00,Patch 6.08,BO3,https://www.vlr.gg/184047/team-vitality-vs-fnatic-champions-tour-2023-emea-league-w6,0,2,1,"Haven
+PICK",1:09:14,Team Vitality,12,FNATIC,14,0,2,4 (0),2 (2),1 (0),0 (0),10 (7),9 (5),11 (5),15 (7)
+161,2023-05-03 14:00:00,Patch 6.08,BO3,https://www.vlr.gg/184047/team-vitality-vs-fnatic-champions-tour-2023-emea-league-w6,0,2,2,"Bind
+PICK",50:32,Team Vitality,8,FNATIC,13,1,1,2 (1),4 (2),1 (1),0 (0),9 (3),5 (3),9 (3),12 (8)
+162,2023-05-04 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184048/fut-esports-vs-karmine-corp-champions-tour-2023-emea-league-w6,2,0,1,"Haven
+PICK",57:35,FUT Esports,13,Karmine Corp,8,0,2,4 (1),2 (2),1 (1),3 (1),1 (1),5 (3),15 (10),11 (2)
+163,2023-05-04 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184048/fut-esports-vs-karmine-corp-champions-tour-2023-emea-league-w6,2,0,2,"Ascent
+PICK",48:38,FUT Esports,13,Karmine Corp,5,2,0,2 (2),4 (0),0 (0),2 (0),5 (4),6 (2),11 (7),6 (3)
+164,2023-05-04 14:15:00,Patch 6.08,BO3,https://www.vlr.gg/184049/koi-vs-bbl-esports-champions-tour-2023-emea-league-w6,1,2,1,"Pearl
+PICK",1:06:02,KOI,13,BBL Esports,3,2,0,2 (2),3 (0),0 (0),1 (0),4 (4),8 (1),10 (7),4 (2)
+165,2023-05-04 14:15:00,Patch 6.08,BO3,https://www.vlr.gg/184049/koi-vs-bbl-esports-champions-tour-2023-emea-league-w6,1,2,2,"Ascent
+PICK",42:03,KOI,4,BBL Esports,13,1,1,2 (1),2 (1),3 (0),0 (0),9 (2),6 (5),3 (1),9 (7)
+166,2023-05-04 14:15:00,Patch 6.08,BO3,https://www.vlr.gg/184049/koi-vs-bbl-esports-champions-tour-2023-emea-league-w6,1,2,3,Bind,44:02,KOI,5,BBL Esports,13,1,1,3 (1),2 (1),0 (0),1 (0),8 (2),3 (2),7 (2),12 (10)
+167,2023-05-05 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184050/natus-vincere-vs-team-liquid-champions-tour-2023-emea-league-w6,2,0,1,"Fracture
+PICK",1:07:23,Natus Vincere,13,Team Liquid,11,2,0,2 (2),4 (1),2 (1),1 (1),8 (5),8 (6),12 (5),11 (3)
+168,2023-05-05 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184050/natus-vincere-vs-team-liquid-champions-tour-2023-emea-league-w6,2,0,2,"Bind
+PICK",1:02:47,Natus Vincere,13,Team Liquid,11,1,1,2 (1),3 (2),2 (1),1 (0),5 (3),6 (4),15 (8),14 (5)
+169,2023-05-05 15:15:00,Patch 6.08,BO3,https://www.vlr.gg/184051/giants-gaming-vs-team-heretics-champions-tour-2023-emea-league-w6,0,2,1,"Pearl
+PICK",1:15:24,Giants Gaming,9,Team Heretics,13,1,1,3 (2),3 (1),1 (0),2 (1),6 (2),4 (2),12 (5),13 (9)
+170,2023-05-05 15:15:00,Patch 6.08,BO3,https://www.vlr.gg/184051/giants-gaming-vs-team-heretics-champions-tour-2023-emea-league-w6,0,2,2,"Lotus
+PICK",1:13:28,Giants Gaming,14,Team Heretics,16,2,0,2 (2),4 (0),1 (1),0 (0),9 (5),7 (4),18 (6),19 (12)
+171,2023-05-10 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184038/koi-vs-fnatic-champions-tour-2023-emea-league-w4,0,2,1,"Lotus
+PICK",1:21:01,KOI,4,FNATIC,13,1,1,3 (1),3 (1),3 (0),0 (0),4 (1),4 (4),7 (2),10 (8)
+172,2023-05-10 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184038/koi-vs-fnatic-champions-tour-2023-emea-league-w4,0,2,2,"Ascent
+PICK",53:53,KOI,9,FNATIC,13,1,1,3 (1),3 (1),0 (0),0 (0),8 (2),9 (3),11 (6),10 (9)
+173,2023-05-10 15:10:00,Patch 6.08,BO3,https://www.vlr.gg/184052/giants-gaming-vs-team-vitality-champions-tour-2023-emea-league-w7,2,1,1,"Lotus
+PICK",55:49,Giants Gaming,13,Team Vitality,6,2,0,2 (2),2 (0),2 (1),2 (1),4 (2),7 (3),11 (8),8 (2)
+174,2023-05-10 15:10:00,Patch 6.08,BO3,https://www.vlr.gg/184052/giants-gaming-vs-team-vitality-champions-tour-2023-emea-league-w7,2,1,2,"Split
+PICK",55:01,Giants Gaming,10,Team Vitality,13,1,1,3 (1),3 (1),1 (0),1 (0),8 (4),4 (3),11 (5),15 (9)
+175,2023-05-10 15:10:00,Patch 6.08,BO3,https://www.vlr.gg/184052/giants-gaming-vs-team-vitality-champions-tour-2023-emea-league-w7,2,1,3,Ascent,55:17,Giants Gaming,13,Team Vitality,10,1,1,3 (1),3 (1),1 (1),1 (0),6 (4),9 (4),13 (7),10 (5)
+176,2023-05-11 12:00:00,Patch 6.08,BO3,https://www.vlr.gg/184053/fut-esports-vs-natus-vincere-champions-tour-2023-emea-league-w7,0,2,1,"Lotus
+PICK",1:07:26,FUT Esports,9,Natus Vincere,13,1,1,3 (1),3 (1),2 (0),1 (1),8 (4),9 (5),9 (4),9 (6)
+177,2023-05-11 15:20:00,Patch 6.08,BO3,https://www.vlr.gg/184054/karmine-corp-vs-fnatic-champions-tour-2023-emea-league-w7,0,2,1,"Haven
+PICK",44:51,Karmine Corp,2,FNATIC,13,0,2,4 (0),2 (2),1 (0),0 (0),5 (1),4 (3),5 (1),9 (8)
+178,2023-05-11 15:20:00,Patch 6.08,BO3,https://www.vlr.gg/184054/karmine-corp-vs-fnatic-champions-tour-2023-emea-league-w7,0,2,2,"Lotus
+PICK",1:05:30,Karmine Corp,10,FNATIC,13,1,1,3 (1),3 (1),0 (0),0 (0),9 (5),9 (6),11 (4),11 (6)
+179,2023-05-12 16:15:00,Patch 6.08,BO3,https://www.vlr.gg/184056/koi-vs-team-heretics-champions-tour-2023-emea-league-w7,2,1,1,"Fracture
+PICK",1:09:57,KOI,13,Team Heretics,7,1,1,3 (1),3 (1),1 (0),1 (0),3 (3),8 (4),13 (9),8 (2)
+180,2023-05-12 16:15:00,Patch 6.08,BO3,https://www.vlr.gg/184056/koi-vs-team-heretics-champions-tour-2023-emea-league-w7,2,1,2,"Lotus
+PICK",58:31,KOI,9,Team Heretics,13,1,1,3 (1),3 (1),0 (0),1 (0),7 (3),4 (3),12 (5),14 (9)
+181,2023-05-12 16:15:00,Patch 6.08,BO3,https://www.vlr.gg/184056/koi-vs-team-heretics-champions-tour-2023-emea-league-w7,2,1,3,Ascent,1:06:43,KOI,13,Team Heretics,11,1,1,3 (1),3 (2),2 (1),2 (0),6 (4),7 (3),13 (7),12 (6)
+182,2023-05-17 14:00:00,Patch 6.08,BO3,https://www.vlr.gg/184057/fnatic-vs-natus-vincere-champions-tour-2023-emea-league-w8,2,0,1,"Lotus
+PICK",1:30:41,FNATIC,13,Natus Vincere,9,0,2,4 (1),2 (2),1 (0),2 (0),5 (4),10 (4),12 (8),8 (3)
+183,2023-05-17 14:00:00,Patch 6.08,BO3,https://www.vlr.gg/184057/fnatic-vs-natus-vincere-champions-tour-2023-emea-league-w8,2,0,2,"Split
+PICK",49:41,FNATIC,13,Natus Vincere,8,2,0,2 (2),4 (0),0 (0),1 (0),12 (8),8 (6),7 (3),8 (2)
+184,2023-03-25 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184456/zeta-division-vs-drx-champions-tour-2023-pacific-league-w1,0,2,1,"Ascent
+PICK",1:09:35,ZETA DIVISION,5,DRX,13,1,1,3 (1),3 (1),0 (0),0 (0),6 (3),4 (4),9 (1),11 (8)
+185,2023-03-25 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184456/zeta-division-vs-drx-champions-tour-2023-pacific-league-w1,0,2,2,"Pearl
+PICK",47:41,ZETA DIVISION,5,DRX,13,1,1,3 (1),3 (1),3 (0),1 (0),3 (2),2 (1),9 (2),12 (11)
+186,2023-03-25 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184457/t1-vs-global-esports-champions-tour-2023-pacific-league-w1,2,1,1,"Pearl
+PICK",1:20:17,T1,13,Global Esports,8,1,1,3 (1),5 (1),0 (0),1 (0),4 (3),5 (2),14 (9),10 (5)
+187,2023-03-25 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184457/t1-vs-global-esports-champions-tour-2023-pacific-league-w1,2,1,2,"Haven
+PICK",40:44,T1,4,Global Esports,13,1,1,3 (1),3 (1),1 (0),0 (0),7 (2),2 (2),6 (1),12 (10)
+188,2023-03-25 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184457/t1-vs-global-esports-champions-tour-2023-pacific-league-w1,2,1,3,Lotus,47:04,T1,13,Global Esports,7,1,1,2 (1),4 (1),3 (1),0 (0),4 (3),5 (1),11 (8),11 (5)
+189,2023-03-26 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184458/paper-rex-vs-detonation-focusme-champions-tour-2023-pacific-league-w1,2,0,1,"Pearl
+PICK",1:02:23,Paper Rex,13,DetonatioN FocusMe,5,1,1,3 (1),2 (1),0 (0),3 (0),5 (4),4 (1),10 (8),9 (3)
+190,2023-03-26 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184458/paper-rex-vs-detonation-focusme-champions-tour-2023-pacific-league-w1,2,0,2,"Lotus
+PICK",56:00,Paper Rex,13,DetonatioN FocusMe,11,1,1,4 (1),3 (1),2 (1),1 (1),4 (2),4 (1),14 (9),16 (8)
+191,2023-03-26 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184459/team-secret-vs-talon-esports-champions-tour-2023-pacific-league-w1,2,1,1,"Ascent
+PICK",56:11,Team Secret,13,Talon Esports,5,2,0,2 (2),4 (0),1 (0),0 (0),6 (4),4 (1),9 (7),10 (4)
+192,2023-03-26 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184459/team-secret-vs-talon-esports-champions-tour-2023-pacific-league-w1,2,1,2,"Icebox
+PICK",46:47,Team Secret,8,Talon Esports,13,0,2,4 (0),2 (2),1 (0),2 (1),4 (3),4 (3),12 (5),13 (7)
+193,2023-03-26 08:00:00,Patch 6.05,BO3,https://www.vlr.gg/184459/team-secret-vs-talon-esports-champions-tour-2023-pacific-league-w1,2,1,3,Fracture,35:52,Team Secret,13,Talon Esports,3,2,0,2 (2),3 (0),1 (1),3 (0),4 (3),3 (1),9 (7),7 (2)
+194,2023-03-27 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184460/rex-regum-qeon-vs-gen-g-champions-tour-2023-pacific-league-w1,0,2,1,"Fracture
+PICK",1:12:25,Rex Regum Qeon,9,Gen.G,13,1,1,3 (1),3 (1),1 (0),2 (0),4 (2),3 (2),14 (6),14 (10)
+195,2023-03-27 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184460/rex-regum-qeon-vs-gen-g-champions-tour-2023-pacific-league-w1,0,2,2,"Lotus
+PICK",39:05,Rex Regum Qeon,6,Gen.G,13,2,0,2 (2),4 (0),3 (1),0 (0),7 (2),2 (2),7 (1),13 (11)
+196,2023-04-01 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184461/zeta-division-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w2,2,1,1,"Haven
+PICK",1:06:39,ZETA DIVISION,10,Rex Regum Qeon,13,1,1,3 (1),3 (1),1 (0),0 (0),5 (2),6 (4),14 (7),14 (8)
+197,2023-04-01 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184461/zeta-division-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w2,2,1,2,"Ascent
+PICK",58:14,ZETA DIVISION,13,Rex Regum Qeon,10,1,1,3 (1),3 (1),1 (1),1 (0),6 (3),5 (3),13 (8),14 (6)
+198,2023-04-01 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184461/zeta-division-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w2,2,1,3,Lotus,43:45,ZETA DIVISION,13,Rex Regum Qeon,5,1,1,3 (1),3 (1),0 (0),1 (0),2 (2),7 (2),13 (10),7 (2)
+199,2023-04-01 08:30:00,Patch 6.05,BO3,https://www.vlr.gg/184462/talon-esports-vs-t1-champions-tour-2023-pacific-league-w2,0,2,1,"Ascent
+PICK",57:56,Talon Esports,8,T1,13,0,2,4 (0),2 (2),2 (0),2 (1),1 (1),5 (2),14 (7),12 (8)
+200,2023-04-01 08:30:00,Patch 6.05,BO3,https://www.vlr.gg/184462/talon-esports-vs-t1-champions-tour-2023-pacific-league-w2,0,2,2,"Haven
+PICK",41:33,Talon Esports,6,T1,13,0,2,3 (0),2 (2),2 (0),1 (1),6 (2),7 (4),8 (4),9 (6)
+201,2023-04-02 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184463/team-secret-vs-paper-rex-champions-tour-2023-pacific-league-w2,2,1,1,"Haven
+PICK",1:01:36,Team Secret,11,Paper Rex,13,2,0,2 (2),5 (0),2 (0),1 (0),6 (2),2 (1),14 (7),16 (12)
+202,2023-04-02 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184463/team-secret-vs-paper-rex-champions-tour-2023-pacific-league-w2,2,1,2,"Fracture
+PICK",57:55,Team Secret,13,Paper Rex,11,1,1,3 (1),3 (1),1 (0),0 (0),5 (4),9 (6),15 (8),12 (4)
+203,2023-04-02 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184463/team-secret-vs-paper-rex-champions-tour-2023-pacific-league-w2,2,1,3,Split,55:12,Team Secret,13,Paper Rex,10,2,0,2 (2),4 (0),1 (1),1 (0),4 (2),5 (2),16 (8),13 (8)
+204,2023-04-02 08:30:00,Patch 6.05,BO3,https://www.vlr.gg/184465/gen-g-vs-detonation-focusme-champions-tour-2023-pacific-league-w2,2,1,1,"Lotus
+PICK",57:19,Gen.G,13,DetonatioN FocusMe,8,1,1,3 (1),3 (1),1 (0),1 (0),3 (3),4 (2),14 (9),13 (5)
+205,2023-04-02 08:30:00,Patch 6.05,BO3,https://www.vlr.gg/184465/gen-g-vs-detonation-focusme-champions-tour-2023-pacific-league-w2,2,1,2,"Fracture
+PICK",45:21,Gen.G,4,DetonatioN FocusMe,13,0,2,5 (0),2 (2),2 (1),0 (0),5 (0),3 (2),5 (3),12 (9)
+206,2023-04-02 08:30:00,Patch 6.05,BO3,https://www.vlr.gg/184465/gen-g-vs-detonation-focusme-champions-tour-2023-pacific-league-w2,2,1,3,Pearl,51:23,Gen.G,13,DetonatioN FocusMe,8,2,0,2 (2),4 (0),1 (0),1 (0),5 (2),5 (2),13 (9),11 (6)
+207,2023-04-03 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184466/global-esports-vs-drx-champions-tour-2023-pacific-league-w2,0,2,1,"Haven
+PICK",1:11:31,Global Esports,11,DRX,13,2,0,2 (2),5 (0),1 (0),0 (0),5 (3),2 (1),16 (6),17 (12)
+208,2023-04-03 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184466/global-esports-vs-drx-champions-tour-2023-pacific-league-w2,0,2,2,"Split
+PICK",1:23:20,Global Esports,15,DRX,17,1,1,4 (2),4 (1),0 (0),1 (1),4 (1),2 (0),24 (12),25 (15)
+209,2023-04-08 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184467/rex-regum-qeon-vs-detonation-focusme-champions-tour-2023-pacific-league-w3,2,0,1,"Haven
+PICK",49:43,Rex Regum Qeon,13,DetonatioN FocusMe,4,1,1,3 (2),4 (1),1 (1),1 (0),2 (1),5 (0),11 (9),7 (3)
+210,2023-04-08 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184467/rex-regum-qeon-vs-detonation-focusme-champions-tour-2023-pacific-league-w3,2,0,2,"Pearl
+PICK",49:25,Rex Regum Qeon,13,DetonatioN FocusMe,7,2,0,2 (2),4 (0),1 (0),2 (0),4 (3),4 (2),13 (8),10 (5)
+211,2023-04-08 07:10:00,Patch 6.05,BO3,https://www.vlr.gg/184468/t1-vs-paper-rex-champions-tour-2023-pacific-league-w3,0,2,1,"Pearl
+PICK",45:21,T1,3,Paper Rex,13,1,1,3 (1),3 (1),3 (0),0 (0),3 (1),3 (3),7 (1),10 (9)
+212,2023-04-08 07:10:00,Patch 6.05,BO3,https://www.vlr.gg/184468/t1-vs-paper-rex-champions-tour-2023-pacific-league-w3,0,2,2,"Fracture
+PICK",42:34,T1,6,Paper Rex,13,1,1,3 (1),3 (1),2 (0),0 (0),5 (2),3 (2),9 (3),13 (10)
+213,2023-04-09 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184469/zeta-division-vs-global-esports-champions-tour-2023-pacific-league-w3,2,1,1,"Pearl
+PICK",1:09:53,ZETA DIVISION,9,Global Esports,13,1,1,3 (1),4 (1),0 (0),1 (1),12 (6),2 (2),7 (2),15 (9)
+214,2023-04-09 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184469/zeta-division-vs-global-esports-champions-tour-2023-pacific-league-w3,2,1,2,"Ascent
+PICK",1:03:28,ZETA DIVISION,14,Global Esports,12,0,2,4 (0),4 (2),0 (0),2 (0),10 (6),5 (3),12 (8),15 (7)
+215,2023-04-09 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184469/zeta-division-vs-global-esports-champions-tour-2023-pacific-league-w3,2,1,3,Haven,48:00,ZETA DIVISION,13,Global Esports,8,1,1,3 (2),4 (1),0 (0),1 (0),8 (6),3 (2),10 (5),13 (5)
+216,2023-04-09 08:45:00,Patch 6.05,BO3,https://www.vlr.gg/184470/talon-esports-vs-drx-champions-tour-2023-pacific-league-w3,0,2,1,"Split
+PICK",38:57,Talon Esports,3,DRX,13,1,1,2 (1),3 (1),2 (0),0 (0),8 (2),3 (3),4 (0),10 (9)
+217,2023-04-09 08:45:00,Patch 6.05,BO3,https://www.vlr.gg/184470/talon-esports-vs-drx-champions-tour-2023-pacific-league-w3,0,2,2,"Pearl
+PICK",49:19,Talon Esports,10,DRX,13,1,1,3 (1),3 (1),1 (0),1 (1),8 (4),3 (1),11 (5),16 (10)
+218,2023-04-10 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184471/team-secret-vs-gen-g-champions-tour-2023-pacific-league-w3,0,2,1,"Haven
+PICK",1:03:34,Team Secret,8,Gen.G,13,0,2,4 (0),2 (2),2 (1),0 (0),4 (1),10 (6),11 (6),9 (5)
+219,2023-04-10 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184471/team-secret-vs-gen-g-champions-tour-2023-pacific-league-w3,0,2,2,"Fracture
+PICK",54:53,Team Secret,11,Gen.G,13,1,1,3 (1),3 (1),2 (1),3 (1),3 (1),3 (1),16 (8),15 (10)
+220,2023-04-15 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184472/paper-rex-vs-drx-champions-tour-2023-pacific-league-w4,0,2,1,"Ascent
+PICK",51:25,Paper Rex,5,DRX,13,1,1,3 (1),3 (1),2 (0),0 (0),5 (1),2 (2),8 (3),13 (10)
+221,2023-04-15 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184472/paper-rex-vs-drx-champions-tour-2023-pacific-league-w4,0,2,2,"Split
+PICK",57:07,Paper Rex,10,DRX,13,1,1,3 (1),3 (1),0 (0),0 (0),7 (5),4 (1),13 (4),16 (11)
+222,2023-04-15 07:40:00,Patch 6.05,BO3,https://www.vlr.gg/184473/team-secret-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w4,0,2,1,"Icebox
+PICK",56:54,Team Secret,10,Rex Regum Qeon,13,1,1,4 (1),3 (2),1 (0),0 (0),6 (3),4 (2),12 (6),16 (9)
+223,2023-04-15 07:40:00,Patch 6.05,BO3,https://www.vlr.gg/184473/team-secret-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w4,0,2,2,"Split
+PICK",47:01,Team Secret,7,Rex Regum Qeon,13,1,1,3 (1),3 (1),1 (0),0 (0),7 (2),3 (2),9 (4),14 (10)
+224,2023-04-16 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184474/t1-vs-gen-g-champions-tour-2023-pacific-league-w4,0,2,1,"Ascent
+PICK",57:31,T1,5,Gen.G,13,2,0,2 (2),4 (1),2 (0),0 (0),6 (1),5 (5),8 (2),9 (7)
+225,2023-04-16 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184474/t1-vs-gen-g-champions-tour-2023-pacific-league-w4,0,2,2,"Haven
+PICK",43:59,T1,5,Gen.G,13,0,2,3 (0),2 (2),3 (1),0 (0),4 (0),5 (5),8 (4),11 (6)
+226,2023-04-16 07:15:00,Patch 6.05,BO3,https://www.vlr.gg/184475/zeta-division-vs-detonation-focusme-champions-tour-2023-pacific-league-w4,2,0,1,"Ascent
+PICK",1:00:56,ZETA DIVISION,13,DetonatioN FocusMe,9,2,0,2 (2),3 (0),1 (0),0 (0),10 (3),7 (3),9 (8),12 (6)
+227,2023-04-16 07:15:00,Patch 6.05,BO3,https://www.vlr.gg/184475/zeta-division-vs-detonation-focusme-champions-tour-2023-pacific-league-w4,2,0,2,"Haven
+PICK",43:17,ZETA DIVISION,13,DetonatioN FocusMe,5,1,1,3 (1),3 (1),1 (1),1 (0),3 (3),8 (3),11 (8),6 (1)
+228,2023-04-17 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184476/talon-esports-vs-global-esports-champions-tour-2023-pacific-league-w4,0,2,1,"Split
+PICK",58:56,Talon Esports,6,Global Esports,13,1,1,3 (1),3 (1),1 (0),2 (2),8 (4),2 (1),7 (1),12 (9)
+229,2023-04-17 05:00:00,Patch 6.05,BO3,https://www.vlr.gg/184476/talon-esports-vs-global-esports-champions-tour-2023-pacific-league-w4,0,2,2,"Icebox
+PICK",56:37,Talon Esports,11,Global Esports,13,1,1,3 (1),2 (1),2 (0),3 (0),5 (1),5 (4),14 (9),14 (8)
+230,2023-04-22 04:00:00,Patch 6.05,BO3,https://www.vlr.gg/184477/paper-rex-vs-global-esports-champions-tour-2023-pacific-league-w5,2,1,1,"Icebox
+PICK",57:55,Paper Rex,7,Global Esports,13,0,2,4 (0),3 (2),1 (0),2 (1),2 (2),3 (3),13 (5),12 (7)
+231,2023-04-22 04:00:00,Patch 6.05,BO3,https://www.vlr.gg/184477/paper-rex-vs-global-esports-champions-tour-2023-pacific-league-w5,2,1,2,"Split
+PICK",45:19,Paper Rex,13,Global Esports,6,1,1,3 (1),5 (1),0 (0),0 (0),3 (3),6 (2),13 (9),8 (3)
+232,2023-04-22 04:00:00,Patch 6.05,BO3,https://www.vlr.gg/184477/paper-rex-vs-global-esports-champions-tour-2023-pacific-league-w5,2,1,3,Pearl,45:51,Paper Rex,13,Global Esports,7,1,1,3 (1),4 (1),1 (1),2 (0),2 (2),3 (1),14 (9),11 (5)
+233,2023-04-22 07:30:00,Patch 6.05,BO3,https://www.vlr.gg/184478/gen-g-vs-drx-champions-tour-2023-pacific-league-w5,1,2,1,"Haven
+PICK",52:09,Gen.G,7,DRX,13,1,1,3 (1),3 (1),3 (0),1 (0),2 (1),2 (2),12 (5),14 (10)
+234,2023-04-22 07:30:00,Patch 6.05,BO3,https://www.vlr.gg/184478/gen-g-vs-drx-champions-tour-2023-pacific-league-w5,1,2,2,"Fracture
+PICK",52:23,Gen.G,13,DRX,10,0,2,4 (1),3 (2),0 (0),3 (0),3 (3),5 (2),16 (9),12 (6)
+235,2023-04-22 07:30:00,Patch 6.05,BO3,https://www.vlr.gg/184478/gen-g-vs-drx-champions-tour-2023-pacific-league-w5,1,2,3,Pearl,43:48,Gen.G,4,DRX,13,1,1,3 (1),3 (2),1 (0),0 (0),5 (1),3 (1),8 (2),11 (10)
+236,2023-04-23 04:00:00,Patch 6.05,BO3,https://www.vlr.gg/184479/t1-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w5,2,0,1,"Haven
+PICK",1:09:19,T1,13,Rex Regum Qeon,9,2,0,2 (2),4 (0),0 (0),1 (0),7 (5),3 (2),13 (6),14 (7)
+237,2023-04-23 04:00:00,Patch 6.05,BO3,https://www.vlr.gg/184479/t1-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w5,2,0,2,"Fracture
+PICK",35:39,T1,13,Rex Regum Qeon,4,0,2,4 (1),3 (2),0 (0),3 (0),2 (2),5 (1),11 (10),6 (1)
+238,2023-04-23 06:20:00,Patch 6.05,BO3,https://www.vlr.gg/184480/team-secret-vs-detonation-focusme-champions-tour-2023-pacific-league-w5,2,0,1,"Ascent
+PICK",55:23,Team Secret,13,DetonatioN FocusMe,11,1,1,3 (1),3 (1),2 (1),1 (0),2 (1),10 (5),17 (10),10 (5)
+239,2023-04-23 06:20:00,Patch 6.05,BO3,https://www.vlr.gg/184480/team-secret-vs-detonation-focusme-champions-tour-2023-pacific-league-w5,2,0,2,"Haven
+PICK",50:02,Team Secret,13,DetonatioN FocusMe,8,0,2,4 (1),3 (3),2 (0),2 (0),1 (1),8 (1),14 (11),8 (4)
+240,2023-04-24 06:00:00,Patch 6.05,BO3,https://www.vlr.gg/184481/zeta-division-vs-talon-esports-champions-tour-2023-pacific-league-w5,0,2,1,"Haven
+PICK",1:00:46,ZETA DIVISION,8,Talon Esports,13,1,1,3 (2),3 (1),0 (0),3 (0),11 (4),2 (1),7 (2),13 (11)
+241,2023-04-24 06:00:00,Patch 6.05,BO3,https://www.vlr.gg/184481/zeta-division-vs-talon-esports-champions-tour-2023-pacific-league-w5,0,2,2,"Ascent
+PICK",1:14:59,ZETA DIVISION,14,Talon Esports,16,1,1,3 (1),3 (1),1 (1),3 (0),10 (4),4 (3),16 (8),20 (12)
+242,2023-04-29 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184482/t1-vs-detonation-focusme-champions-tour-2023-pacific-league-w6,2,1,1,"Lotus
+PICK",1:09:01,T1,13,DetonatioN FocusMe,9,1,1,3 (2),4 (1),1 (0),1 (0),3 (2),9 (4),15 (9),8 (4)
+243,2023-04-29 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184482/t1-vs-detonation-focusme-champions-tour-2023-pacific-league-w6,2,1,2,"Split
+PICK",57:49,T1,9,DetonatioN FocusMe,13,1,1,4 (2),3 (1),1 (0),0 (0),8 (3),6 (4),9 (4),13 (8)
+244,2023-04-29 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184482/t1-vs-detonation-focusme-champions-tour-2023-pacific-league-w6,2,1,3,Fracture,56:48,T1,13,DetonatioN FocusMe,10,0,2,3 (0),2 (2),1 (0),4 (1),3 (3),6 (4),16 (10),11 (3)
+245,2023-04-29 08:00:00,Patch 6.08,BO3,https://www.vlr.gg/184483/zeta-division-vs-team-secret-champions-tour-2023-pacific-league-w6,2,1,1,"Split
+PICK",1:05:11,ZETA DIVISION,13,Team Secret,9,2,0,2 (2),3 (0),0 (0),3 (2),12 (6),2 (0),8 (5),14 (7)
+246,2023-04-29 08:00:00,Patch 6.08,BO3,https://www.vlr.gg/184483/zeta-division-vs-team-secret-champions-tour-2023-pacific-league-w6,2,1,2,"Lotus
+PICK",1:00:01,ZETA DIVISION,10,Team Secret,13,1,1,3 (1),3 (1),2 (1),0 (0),10 (3),4 (3),8 (5),16 (9)
+247,2023-04-29 08:00:00,Patch 6.08,BO3,https://www.vlr.gg/184483/zeta-division-vs-team-secret-champions-tour-2023-pacific-league-w6,2,1,3,Fracture,50:13,ZETA DIVISION,13,Team Secret,9,2,0,2 (2),4 (0),1 (0),2 (1),7 (3),2 (0),12 (8),14 (8)
+248,2023-04-30 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184484/global-esports-vs-gen-g-champions-tour-2023-pacific-league-w6,2,0,1,"Pearl
+PICK",56:36,Global Esports,13,Gen.G,8,2,0,4 (2),3 (0),1 (1),3 (1),3 (1),4 (2),13 (9),11 (5)
+249,2023-04-30 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184484/global-esports-vs-gen-g-champions-tour-2023-pacific-league-w6,2,0,2,"Lotus
+PICK",47:49,Global Esports,13,Gen.G,8,1,1,3 (2),3 (1),0 (0),3 (0),5 (4),7 (3),13 (7),8 (4)
+250,2023-04-30 06:20:00,Patch 6.08,BO3,https://www.vlr.gg/184485/rex-regum-qeon-vs-drx-champions-tour-2023-pacific-league-w6,1,2,1,"Haven
+PICK",53:34,Rex Regum Qeon,13,DRX,8,0,2,4 (0),2 (2),0 (0),3 (0),4 (4),5 (2),13 (9),11 (4)
+251,2023-04-30 06:20:00,Patch 6.08,BO3,https://www.vlr.gg/184485/rex-regum-qeon-vs-drx-champions-tour-2023-pacific-league-w6,1,2,2,"Split
+PICK",54:47,Rex Regum Qeon,10,DRX,13,1,1,3 (1),3 (1),1 (0),0 (0),5 (1),3 (1),14 (8),17 (11)
+252,2023-04-30 06:20:00,Patch 6.08,BO3,https://www.vlr.gg/184485/rex-regum-qeon-vs-drx-champions-tour-2023-pacific-league-w6,1,2,3,Pearl,38:45,Rex Regum Qeon,2,DRX,13,1,1,4 (1),3 (2),1 (0),0 (0),6 (0),2 (2),4 (1),10 (9)
+253,2023-05-01 06:00:00,Patch 6.08,BO3,https://www.vlr.gg/184486/talon-esports-vs-paper-rex-champions-tour-2023-pacific-league-w6,1,2,1,"Pearl
+PICK",1:16:07,Talon Esports,13,Paper Rex,11,1,1,3 (1),3 (1),1 (0),1 (0),5 (3),6 (3),15 (9),14 (7)
+254,2023-05-01 06:00:00,Patch 6.08,BO3,https://www.vlr.gg/184486/talon-esports-vs-paper-rex-champions-tour-2023-pacific-league-w6,1,2,2,"Split
+PICK",37:31,Talon Esports,4,Paper Rex,13,1,1,4 (1),3 (2),2 (0),0 (0),4 (1),1 (1),7 (2),13 (10)
+255,2023-05-01 06:00:00,Patch 6.08,BO3,https://www.vlr.gg/184486/talon-esports-vs-paper-rex-champions-tour-2023-pacific-league-w6,1,2,3,Fracture,51:11,Talon Esports,10,Paper Rex,13,1,1,3 (2),3 (1),2 (0),1 (0),5 (2),5 (3),13 (6),14 (9)
+256,2023-05-06 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184488/talon-esports-vs-gen-g-champions-tour-2023-pacific-league-w7,2,0,1,"Fracture
+PICK",1:04:44,Talon Esports,13,Gen.G,8,2,0,3 (2),3 (1),2 (0),3 (0),3 (1),3 (0),13 (10),12 (7)
+257,2023-05-06 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184488/talon-esports-vs-gen-g-champions-tour-2023-pacific-league-w7,2,0,2,"Lotus
+PICK",49:09,Talon Esports,13,Gen.G,7,1,1,3 (1),3 (1),0 (0),2 (1),3 (2),6 (3),14 (10),9 (2)
+258,2023-05-06 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184489/zeta-division-vs-paper-rex-champions-tour-2023-pacific-league-w7,0,2,1,"Split
+PICK",51:20,ZETA DIVISION,6,Paper Rex,13,0,2,4 (0),2 (2),1 (1),0 (0),8 (3),7 (5),6 (2),10 (6)
+259,2023-05-06 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184489/zeta-division-vs-paper-rex-champions-tour-2023-pacific-league-w7,0,2,2,"Ascent
+PICK",52:40,ZETA DIVISION,10,Paper Rex,13,1,1,3 (1),3 (1),1 (0),1 (0),11 (5),4 (2),8 (4),15 (10)
+260,2023-05-07 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184490/rex-regum-qeon-vs-global-esports-champions-tour-2023-pacific-league-w7,2,0,1,"Fracture
+PICK",1:08:34,Rex Regum Qeon,13,Global Esports,10,2,0,2 (2),4 (0),2 (1),1 (0),6 (2),6 (4),13 (8),12 (6)
+261,2023-05-07 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184490/rex-regum-qeon-vs-global-esports-champions-tour-2023-pacific-league-w7,2,0,2,"Pearl
+PICK",56:52,Rex Regum Qeon,13,Global Esports,11,0,2,4 (1),4 (2),0 (0),1 (0),5 (4),12 (6),15 (8),7 (3)
+262,2023-05-07 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184491/team-secret-vs-t1-champions-tour-2023-pacific-league-w7,0,2,1,"Lotus
+PICK",46:21,Team Secret,4,T1,13,0,2,4 (0),2 (2),3 (0),0 (0),1 (0),5 (4),9 (4),10 (7)
+263,2023-05-07 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184491/team-secret-vs-t1-champions-tour-2023-pacific-league-w7,0,2,2,"Bind
+PICK",51:51,Team Secret,8,T1,13,2,0,2 (2),4 (1),3 (0),0 (0),7 (3),2 (2),9 (3),15 (10)
+264,2023-05-08 06:00:00,Patch 6.08,BO3,https://www.vlr.gg/184492/drx-vs-detonation-focusme-champions-tour-2023-pacific-league-w7,2,0,1,"Fracture
+PICK",1:03:37,DRX,13,DetonatioN FocusMe,8,0,2,4 (1),2 (2),1 (0),2 (1),1 (1),6 (2),15 (11),11 (3)
+265,2023-05-08 06:00:00,Patch 6.08,BO3,https://www.vlr.gg/184492/drx-vs-detonation-focusme-champions-tour-2023-pacific-league-w7,2,0,2,"Ascent
+PICK",42:29,DRX,13,DetonatioN FocusMe,4,2,0,2 (2),4 (0),1 (1),3 (1),4 (4),4 (1),10 (6),6 (2)
+266,2023-05-12 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184493/paper-rex-vs-gen-g-champions-tour-2023-pacific-league-w8,2,0,1,"Split
+PICK",48:45,Paper Rex,13,Gen.G,7,1,1,3 (1),3 (1),0 (0),2 (1),4 (3),5 (2),13 (9),10 (3)
+267,2023-05-12 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184493/paper-rex-vs-gen-g-champions-tour-2023-pacific-league-w8,2,0,2,"Ascent
+PICK",32:58,Paper Rex,13,Gen.G,2,2,0,2 (2),4 (0),0 (0),2 (0),5 (4),2 (0),8 (7),7 (2)
+268,2023-05-12 07:45:00,Patch 6.08,BO3,https://www.vlr.gg/184494/zeta-division-vs-t1-champions-tour-2023-pacific-league-w8,1,2,1,"Fracture
+PICK",57:43,ZETA DIVISION,11,T1,13,0,2,4 (0),2 (2),0 (0),2 (1),8 (5),7 (3),12 (6),13 (7)
+269,2023-05-12 07:45:00,Patch 6.08,BO3,https://www.vlr.gg/184494/zeta-division-vs-t1-champions-tour-2023-pacific-league-w8,1,2,2,"Lotus
+PICK",59:57,ZETA DIVISION,13,T1,10,1,1,3 (1),2 (1),1 (0),3 (0),8 (3),7 (2),11 (9),11 (7)
+270,2023-05-12 07:45:00,Patch 6.08,BO3,https://www.vlr.gg/184494/zeta-division-vs-t1-champions-tour-2023-pacific-league-w8,1,2,3,Bind,40:43,ZETA DIVISION,3,T1,13,0,2,4 (0),2 (2),0 (0),1 (1),6 (0),5 (3),6 (3),8 (7)
+271,2023-05-13 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184495/team-secret-vs-drx-champions-tour-2023-pacific-league-w8,2,0,1,"Haven
+PICK",1:01:37,Team Secret,13,DRX,8,0,2,4 (0),3 (2),2 (2),1 (0),0 (0),6 (3),15 (11),11 (3)
+272,2023-05-13 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184495/team-secret-vs-drx-champions-tour-2023-pacific-league-w8,2,0,2,"Ascent
+PICK",57:29,Team Secret,13,DRX,11,1,1,3 (1),4 (1),2 (0),1 (0),2 (1),3 (2),17 (11),16 (8)
+273,2023-05-13 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184496/global-esports-vs-detonation-focusme-champions-tour-2023-pacific-league-w8,2,0,1,"Lotus
+PICK",55:32,Global Esports,13,DetonatioN FocusMe,7,2,0,2 (2),4 (0),1 (0),0 (0),8 (5),3 (2),9 (6),13 (5)
+274,2023-05-13 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184496/global-esports-vs-detonation-focusme-champions-tour-2023-pacific-league-w8,2,0,2,"Pearl
+PICK",51:41,Global Esports,13,DetonatioN FocusMe,6,2,0,3 (2),3 (0),1 (0),2 (0),8 (6),4 (2),7 (5),10 (4)
+275,2023-05-14 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184497/talon-esports-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w8,1,2,1,"Split
+PICK",52:25,Talon Esports,13,Rex Regum Qeon,3,1,1,3 (1),3 (1),0 (0),1 (0),2 (2),6 (2),11 (10),6 (0)
+276,2023-05-14 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184497/talon-esports-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w8,1,2,2,"Ascent
+PICK",40:34,Talon Esports,4,Rex Regum Qeon,13,0,2,5 (1),2 (2),1 (0),1 (1),2 (0),3 (1),9 (3),11 (9)
+277,2023-05-14 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184497/talon-esports-vs-rex-regum-qeon-champions-tour-2023-pacific-league-w8,1,2,3,Haven,44:36,Talon Esports,7,Rex Regum Qeon,13,1,1,3 (1),3 (1),3 (1),1 (1),4 (2),5 (4),10 (3),11 (7)
+278,2023-05-14 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184498/zeta-division-vs-gen-g-champions-tour-2023-pacific-league-w8,2,1,1,"Haven
+PICK",54:29,ZETA DIVISION,13,Gen.G,8,1,1,3 (1),3 (1),1 (0),4 (0),6 (4),3 (2),11 (8),11 (5)
+279,2023-05-14 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184498/zeta-division-vs-gen-g-champions-tour-2023-pacific-league-w8,2,1,2,"Ascent
+PICK",40:31,ZETA DIVISION,4,Gen.G,13,2,0,3 (2),4 (1),2 (0),0 (0),11 (2),0 (0),1 (0),13 (12)
+280,2023-05-14 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184498/zeta-division-vs-gen-g-champions-tour-2023-pacific-league-w8,2,1,3,Fracture,42:29,ZETA DIVISION,13,Gen.G,4,2,0,2 (2),5 (0),0 (0),2 (1),5 (4),3 (0),10 (7),7 (3)
+281,2023-05-15 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184499/t1-vs-drx-champions-tour-2023-pacific-league-w8,0,2,1,"Bind
+PICK",1:19:56,T1,10,DRX,13,0,2,4 (0),2 (2),0 (0),3 (0),4 (1),4 (3),15 (9),14 (8)
+282,2023-05-15 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184499/t1-vs-drx-champions-tour-2023-pacific-league-w8,0,2,2,"Pearl
+PICK",58:06,T1,9,DRX,13,0,2,3 (0),2 (2),1 (0),1 (0),4 (4),5 (2),14 (5),14 (9)
+283,2023-05-15 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184500/team-secret-vs-global-esports-champions-tour-2023-pacific-league-w8,2,0,1,"Haven
+PICK",1:00:21,Team Secret,13,Global Esports,9,1,1,3 (1),3 (1),0 (0),1 (0),3 (1),7 (4),16 (11),11 (4)
+284,2023-05-15 07:00:00,Patch 6.08,BO3,https://www.vlr.gg/184500/team-secret-vs-global-esports-champions-tour-2023-pacific-league-w8,2,0,2,"Lotus
+PICK",54:56,Team Secret,13,Global Esports,10,2,0,2 (2),4 (0),2 (0),1 (1),3 (2),3 (1),16 (9),15 (8)
+285,2023-05-16 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184501/talon-esports-vs-detonation-focusme-champions-tour-2023-pacific-league-w8,2,0,1,"Lotus
+PICK",1:10:57,Talon Esports,13,DetonatioN FocusMe,11,1,1,3 (1),3 (1),0 (0),1 (0),6 (2),6 (3),15 (10),14 (7)
+286,2023-05-16 04:00:00,Patch 6.08,BO3,https://www.vlr.gg/184501/talon-esports-vs-detonation-focusme-champions-tour-2023-pacific-league-w8,2,0,2,"Bind
+PICK",40:33,Talon Esports,13,DetonatioN FocusMe,4,2,0,3 (2),3 (0),0 (0),1 (0),3 (2),7 (3),11 (9),6 (1)
+287,2023-05-16 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184502/rex-regum-qeon-vs-paper-rex-champions-tour-2023-pacific-league-w8,0,2,1,"Bind
+PICK",59:51,Rex Regum Qeon,9,Paper Rex,13,0,2,4 (0),2 (2),2 (0),0 (0),1 (0),6 (4),15 (9),14 (7)
+288,2023-05-16 06:30:00,Patch 6.08,BO3,https://www.vlr.gg/184502/rex-regum-qeon-vs-paper-rex-champions-tour-2023-pacific-league-w8,0,2,2,"Pearl
+PICK",57:23,Rex Regum Qeon,11,Paper Rex,13,0,2,5 (0),2 (2),0 (0),0 (0),6 (3),10 (5),13 (8),12 (6)
